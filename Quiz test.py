@@ -6,9 +6,9 @@ import time
 # There are 10 questions in this quiz. Each question has 4 options, and only one option is correct. You will get 1 point for each correct answer. Let's begin!
 
 print("=" * 40)
-print(" WELCOME TO THE IELTS/CEFR VOCAB QUIZ! ")
+print(" WELCOME TO THE GEOGRAPHICAL QUIZ! ")
 print("=" * 40)
-print("Answer the following vocabulary questions.\n")
+print("Answer the following questions.\n")
 
 score = 0
 
