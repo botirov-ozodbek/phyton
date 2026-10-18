@@ -3,7 +3,7 @@
 import time
 
 # Welcome to a quiz test!
-# There are 10 questions in this quiz. Each question has 4 options, and only one option is correct. You will get 1 point for each correct answer. Let's begin!
+# There are 3 questions in this quiz. Each question has 4 options, and only one option is correct. You will get 1 point for each correct answer. Let's begin!
 
 print("=" * 40)
 print(" WELCOME TO THE GEOGRAPHICAL QUIZ! ")
